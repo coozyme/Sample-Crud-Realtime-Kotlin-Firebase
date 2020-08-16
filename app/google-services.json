@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "926349751247",
+    "firebase_url": "https://realtimedb-bdc0a.firebaseio.com",
+    "project_id": "realtimedb-bdc0a",
+    "storage_bucket": "realtimedb-bdc0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926349751247:android:aa4f50b8a0c99a554498ba",
+        "android_client_info": {
+          "package_name": "tech.riseofdevelopers.realtimecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926349751247-n3pq7ffji28uof426j8bm8sgtnugr78e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs5Ljs3kv1bRZaseRnGyXxbX_FgRVY8yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926349751247-n3pq7ffji28uof426j8bm8sgtnugr78e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
